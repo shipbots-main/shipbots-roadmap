@@ -1,0 +1,12 @@
+{
+  "name": "shipbots",
+  "description": "ShipBots Claude Code plugins",
+  "owner": { "name": "ShipBots" },
+  "plugins": [
+    {
+      "name": "roadmap",
+      "source": "./plugins/roadmap",
+      "description": "Keeps the ShipBots Build Roadmap filled in from GitHub, with a quick check before you build something new."
+    }
+  ]
+}

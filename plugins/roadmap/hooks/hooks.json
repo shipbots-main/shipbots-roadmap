@@ -1,0 +1,8 @@
+{
+  "description": "Shows the ShipBots Build Roadmap note for this repo at the start of a session.",
+  "hooks": {
+    "SessionStart": [
+      { "hooks": [ { "type": "command", "command": "\"${CLAUDE_PLUGIN_ROOT}/scripts/context.sh\"", "timeout": 10 } ] }
+    ]
+  }
+}

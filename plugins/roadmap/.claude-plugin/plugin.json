@@ -1,0 +1,8 @@
+{
+  "name": "roadmap",
+  "version": "1.2.1",
+  "description": "ShipBots Build Roadmap: a quick check before building, a roadmap card next to every tool, and a Roadmap block in every pull request.",
+  "author": {
+    "name": "ShipBots"
+  }
+}
